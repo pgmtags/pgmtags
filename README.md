@@ -11,14 +11,9 @@
   <li><strong>🐍 Python</strong> - Basic</li>
   <li><strong>☕ Java</strong> - None</li>
   <li><strong>🪟 .NET</strong> - Minimal</li>
-</ul>
-<h2>Frontend</h2>
-<ul>
   <li>🧧 <strong>HTML, CSS</strong> - Basic</li>
   <li>🕳️ <strong>JS</strong> - None</li>
 </ul>
-<h3>Backend</h3>
-<p>None</p>
 <h3>Databases</h3>
 <ul>
   <li><strong>PostgreSQL</strong>, <strong>MySQL</strong>, <strong>MongoDB</strong> - None</li>
