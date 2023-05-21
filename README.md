@@ -8,7 +8,7 @@
 <h2>Study Plan</h2>
 <h3>Languages</h3>
 <ul>
-  <li><strong>🐍 Python</strong> - Basic</li>
+  <li><strong>🐍 Python</strong> - Basic (In-depth training in OOP, almost advanced knowledge)</li>
   <li><strong>☕ Java</strong> - None</li>
   <li><strong>🪟 .NET</strong> - Minimal</li>
   <li>🧧 <strong>HTML, CSS</strong> - Basic</li>
