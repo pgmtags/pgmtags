@@ -12,7 +12,7 @@
   <li><strong>☕ Java</strong> - None</li>
   <li><strong>🪟 .NET</strong> - Minimal</li>
   <li>🧧 <strong>HTML, CSS</strong> - Basic</li>
-  <li>🕳️ <strong>JS</strong> - None</li>
+  <li>🕳️ <strong>JS</strong> - Minimal knowledge syntaxis</li>
 </ul>
 <h3>Databases</h3>
 <ul>
