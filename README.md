@@ -1,7 +1,7 @@
 
 <div id="header" align="center">
   <img src="https://i.ibb.co/0y8wY23/rounded-in-photoretrica.png" width="100">
-  <h1>Student from Ukraine 💙💛 aiming to become a top-1 pirate in FullStack development. 🌏</h1>
+  <h1>Student from Ukraine 💙💛 aiming to become a top-1 pirate. </h1>
   <!--<img src="https://komarev.com/ghpvc/?username=pgmtags&style=flat-square&color=blue" alt=""/> -->
 </div>
 <hr>
