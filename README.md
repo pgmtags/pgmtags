@@ -8,15 +8,15 @@
 <h2>Study Plan</h2>
 <h3>Languages</h3>
 <ul>
-  <li><strong>🐍 Python</strong> - Basic (In-depth training in OOP, almost advanced knowledge)</li>
+  <li><strong>🐍 Python</strong> - Mid (In-depth training in OOP, almost advanced knowledge)</li>
   <li><strong>☕ Java</strong> - None</li>
-  <li><strong>🪟 .NET</strong> - Minimal</li>
+  <li><strong>🪟 .NET</strong> - Basic</li>
   <li>🧧 <strong>HTML, CSS</strong> - Basic</li>
-  <li>🕳️ <strong>JS</strong> - Minimal knowledge syntaxis</li>
+  <li>🕳️ <strong>JS</strong> - Basic</li>
 </ul>
 <h3>Databases</h3>
 <ul>
-  <li><strong>PostgreSQL</strong>, <strong>MySQL</strong>, <strong>MongoDB</strong> - None</li>
+  <li><strong>PostgreSQL</strong>, <strong>MySQL</strong>, <strong>MongoDB</strong> - Minimal</li>
 </ul>
 <h3>DevOps</h3>
 <ul>
