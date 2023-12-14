@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <img src="https://i.ibb.co/0y8wY23/rounded-in-photoretrica.png" width="100">
-    <h1>Student from Ukraine aiming to to become a full-stack desktop developer. </h1>
+    <h1>Student from Ukraine aiming to to become a full-stack desktop developer. ❤️</h1>
     
 </div>
 <div>
